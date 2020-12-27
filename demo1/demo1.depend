@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609005261 source:c:\users\user\desktop\c\demo1\example.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<stdlib.h>
+	<dos.h>
+
